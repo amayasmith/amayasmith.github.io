@@ -120,7 +120,7 @@ Lastly we save each new circle in an array using the `.push()` method. Doing so 
 
 </details>
 
-# TODO 3 : Draw 5 circles!
+# TODO 3 : Draw 5 circles! 
 
 **FIND:** The `PROGRAM SETUP` Section and `// TODO: 3 / 7`
 
