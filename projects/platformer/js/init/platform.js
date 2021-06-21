@@ -40,7 +40,9 @@
         createPlatform(400, 250);
         createPlatform(170, 460, 0.5);
         //Add two more platformers here.
-        createPlatform         
+        createPlatform()
+        createPlatform()
+        createPlatform()      
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
